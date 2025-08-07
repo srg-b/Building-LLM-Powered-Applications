@@ -99,6 +99,41 @@ The course culminates in a **capstone design and prototype**:
 - Google Colab or local Python environment
 - Docker (for deployment modules)
 
+## 🧪 Methodology
+
+This course was developed using a structured, multi-phase curriculum design approach, guided by best practices in instructional design and real-world tooling. The design process relied heavily on the capabilities of GPT-4o in DeepResearch mode to generate, refine, and validate syllabus content.
+
+### Curriculum Development Phases
+
+1. **Phase 1 – Target Definition**: Clarified the course's scope, target audience, and exclusion criteria to ensure a focused learning experience.
+2. **Phase 2 – Learning Outcomes Design**: Defined clear, measurable learning outcomes and the practical capabilities learners should acquire.
+3. **Phase 3 – Module-by-Module Development**: Built detailed Trello-style module cards including learning goals, curated resources, hands-on assignments, optional enrichment, and collaborative sync activities.
+4. **Phase 4 – Quality Review and Thematic Coherence**: Conducted a cross-module review to ensure continuity, progression, and balanced tool coverage.
+5. **Phase 5 – Delivery Enablement**: Finalized course assets (PDF syllabus, README, assistant agent, and Trello board) to support self-paced learner execution.
+
+### Tools Used
+
+The syllabus was created with the support of:
+
+- **GPT-4o (DeepResearch mode)** — for content generation, sourcing, and curriculum structuring.
+- **Open-source resources** — no paywalled or proprietary tools were recommended to maintain accessibility.
+- **Human review and curation** — every module was iteratively refined and validated for accuracy, clarity, and technical alignment.
+
+This methodology ensured the course remains rigorous, hands-on, and tightly aligned with the workflows of modern AI engineers using open-source tooling.
+
+## 📄 License
+
+This course is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+You are free to **share**, **download**, and **use this course content for personal, non-commercial purposes**, provided that you:
+
+- **Credit the original author**
+- **Do not distribute modified versions of the content**
+- **Do not use the materials in corporate, institutional, or commercial training programs** without prior written permission
+
+🔸 *Personal learning note:* You may privately annotate or adapt the material for your own learning, as long as you do not distribute your modified version.
+
+[Read the full license terms here](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
