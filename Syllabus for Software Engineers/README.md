@@ -87,6 +87,34 @@ The course culminates in a **capstone design and prototype**:
 - Include at least one evaluation mechanism and one guardrail
 - This becomes a **portfolio-worthy deliverable**
 
+## 🧪 Optional Primers
+
+This course is designed for experienced software engineers, but learners without a strong foundation in Python or recent exposure to core mathematical concepts may benefit from two optional preparatory primers. These primers are **not included** in the core 60–80 hour learning time but are recommended for those who need a refresh before diving into the main modules.
+
+### 📐 Math for AI Primer (Module 0 – Optional, 10 hours)
+
+This optional module is intended for learners who feel unfamiliar with concepts such as vectors, matrices, dot products, probability distributions, or logarithms. It offers an intuitive and visual review of math fundamentals as they appear in embeddings, vector search, and model evaluation throughout the course.
+
+**Key outcomes:**
+- Understand how linear algebra and probability underpin LLM workflows
+- Gain confidence with concepts like cosine similarity and matrix multiplication
+- Practice math tasks like computing similarities or evaluating simple probabilities
+
+Resources include video series from 3Blue1Brown, Khan Academy exercises, and short applied explainers. The module culminates in a short write-up or notebook with basic math calculations and AI-relevant explanations.
+
+### 🐍 Python Primer for Engineers (Optional, ~6–10 hours)
+
+Learners without working knowledge of modern Python (especially those from compiled-language backgrounds like C#, Java, or C++) are encouraged to complete this standalone primer before beginning Module 1. The primer emphasizes practical fluency in Python syntax, functions, object handling, and package management.
+
+**Key outcomes:**
+- Write idiomatic Python using Jupyter, Colab, or local scripts
+- Work with lists, dicts, sets, and common control structures
+- Use key libraries relevant to this course (e.g., `transformers`, `requests`, `numpy`)
+- Handle errors, structure projects, and install packages confidently
+
+This primer includes curated lessons, hands-on coding tasks, and a small diagnostic to ensure readiness for LLM work in Python. It is especially useful for engineers transitioning from enterprise or strongly typed environments.
+
+
 ## 🚀 Getting Started
 
 **Prerequisites**:
