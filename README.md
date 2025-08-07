@@ -99,9 +99,6 @@ The course culminates in a **capstone design and prototype**:
 - Google Colab or local Python environment
 - Docker (for deployment modules)
 
-**Course Materials**:
-- [📄 Full PDF Syllabus (8 modules)](./Building%20LLM-Powered%20Applications%20Syllabus.pdf)
-- 📋 Trello board (module tracker and checklists) — coming soon!
 
 ---
 
